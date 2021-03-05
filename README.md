@@ -1,2 +1,2 @@
-# choco
-script for home sandbox
+# Chocolatey Script
+script for home sandbox for configuring my VM's
