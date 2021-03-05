@@ -1,3 +1,4 @@
+choco install telegraf -y; 
 choco install googlechrome -y; 
 choco install git.install -y; 
 choco install vscode -y; 
