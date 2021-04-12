@@ -12,6 +12,7 @@ choco install terraform -y;
 choco install azure-cli -y;
 choco install microsoft-windows-terminal -y;
 choco install github-desktop -y
+choco install git-fork -y
 
 
 #Sometimes need
