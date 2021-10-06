@@ -9,7 +9,7 @@ choco install git.install -y;
 choco install vscode -y; 
 choco install 7zip.install -y;
 
-#Dev Workstations
+#Dev Workstation
 choco install azurepowershell -y; 
 choco install postman -y;
 choco install terraform -y; 
